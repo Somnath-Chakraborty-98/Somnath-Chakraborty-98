@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Somnath-Chakraborty-98
-- 🌱 I’m a Software Developer at Allied Softech Pvt Ltd
+- 🌱 I’m a Software Developer at Allied Softech Pvt Ltd with 2+ years of experience as a C++ developer.
 - 👀 I'm passionate about Android Development and Web Development
 - 📫 How to reach me - You can reach me via mail - chakrabortysomnath214@gmail.com - OR You can reach me via Linkedin at - https://www.linkedin.com/in/somnath-chakraborty-81a6341b6/
 
